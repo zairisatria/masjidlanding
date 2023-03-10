@@ -1,0 +1,12 @@
+{
+    "name": "zairi/zairi",
+    "description": "flexstart landing page",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zairisatria",
+            "email": "59381630+zairisatria@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
